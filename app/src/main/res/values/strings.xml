@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutApp</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="time_label">00:00.000</string>
+</resources>
